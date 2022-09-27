@@ -1,0 +1,8 @@
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\bin\Debug\BasicOfCSharpProgramming.exe.config
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\bin\Debug\BasicOfCSharpProgramming.exe
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\bin\Debug\BasicOfCSharpProgramming.pdb
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\obj\Debug\BasicOfCSharpProgramming.csproj.AssemblyReference.cache
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\obj\Debug\BasicOfCSharpProgramming.csproj.SuggestedBindingRedirects.cache
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\obj\Debug\BasicOfCSharpProgramming.csproj.CoreCompileInputs.cache
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\obj\Debug\BasicOfCSharpProgramming.exe
+C:\project\BasicOfCSharpProgramming\BasicOfCSharpProgramming\obj\Debug\BasicOfCSharpProgramming.pdb
